@@ -1,0 +1,23 @@
+C:\Users\ryv26\source\repos\DM3-4 возможно 5\bin\Debug\DM3-4 возможно 5.exe.config
+C:\Users\ryv26\source\repos\DM3-4 возможно 5\bin\Debug\DM3-4 возможно 5.exe
+C:\Users\ryv26\source\repos\DM3-4 возможно 5\bin\Debug\DM3-4 возможно 5.pdb
+C:\Users\ryv26\source\repos\DM3-4 возможно 5\obj\Debug\DM3-4 возможно 5.csproj.AssemblyReference.cache
+C:\Users\ryv26\source\repos\DM3-4 возможно 5\obj\Debug\DM3_4_возможно_5.Form1.resources
+C:\Users\ryv26\source\repos\DM3-4 возможно 5\obj\Debug\DM3_4_возможно_5.Properties.Resources.resources
+C:\Users\ryv26\source\repos\DM3-4 возможно 5\obj\Debug\DM3-4 возможно 5.csproj.GenerateResource.cache
+C:\Users\ryv26\source\repos\DM3-4 возможно 5\obj\Debug\DM3-4 возможно 5.csproj.CoreCompileInputs.cache
+C:\Users\ryv26\source\repos\DM3-4 возможно 5\obj\Debug\DM3-4 возможно 5.exe
+C:\Users\ryv26\source\repos\DM3-4 возможно 5\obj\Debug\DM3-4 возможно 5.pdb
+C:\Users\ryv26\source\repos\DM3-4 возможно 5\bin\Debug\QuickGraph.Data.dll
+C:\Users\ryv26\source\repos\DM3-4 возможно 5\bin\Debug\QuickGraph.dll
+C:\Users\ryv26\source\repos\DM3-4 возможно 5\bin\Debug\QuickGraph.Graphviz.dll
+C:\Users\ryv26\source\repos\DM3-4 возможно 5\bin\Debug\QuickGraph.Serialization.dll
+C:\Users\ryv26\source\repos\DM3-4 возможно 5\bin\Debug\QuickGraph.xml
+C:\Users\ryv26\source\repos\DM3-4 возможно 5\bin\Debug\QuickGraph.Data.xml
+C:\Users\ryv26\source\repos\DM3-4 возможно 5\bin\Debug\QuickGraph.Graphviz.xml
+C:\Users\ryv26\source\repos\DM3-4 возможно 5\bin\Debug\QuickGraph.Serialization.xml
+C:\Users\ryv26\source\repos\DM3-4 возможно 5\obj\Debug\DM3-4 возможно 5.csproj.CopyComplete
+C:\Users\ryv26\source\repos\DM3-4 возможно 5\bin\Debug\DM3-4 возможно 5.exe.manifest
+C:\Users\ryv26\source\repos\DM3-4 возможно 5\bin\Debug\DM3-4 возможно 5.application
+C:\Users\ryv26\source\repos\DM3-4 возможно 5\obj\Debug\DM3-4 возможно 5.exe.manifest
+C:\Users\ryv26\source\repos\DM3-4 возможно 5\obj\Debug\DM3-4 возможно 5.application

@@ -1,0 +1,10 @@
+C:\Users\ryv26\source\repos\DM - 5\bin\Debug\DM - 5.exe.config
+C:\Users\ryv26\source\repos\DM - 5\bin\Debug\DM - 5.exe
+C:\Users\ryv26\source\repos\DM - 5\bin\Debug\DM - 5.pdb
+C:\Users\ryv26\source\repos\DM - 5\obj\Debug\DM - 5.csproj.AssemblyReference.cache
+C:\Users\ryv26\source\repos\DM - 5\obj\Debug\DM___5.Properties.Resources.resources
+C:\Users\ryv26\source\repos\DM - 5\obj\Debug\DM - 5.csproj.GenerateResource.cache
+C:\Users\ryv26\source\repos\DM - 5\obj\Debug\DM - 5.csproj.CoreCompileInputs.cache
+C:\Users\ryv26\source\repos\DM - 5\obj\Debug\DM - 5.exe
+C:\Users\ryv26\source\repos\DM - 5\obj\Debug\DM - 5.pdb
+C:\Users\ryv26\source\repos\DM - 5\obj\Debug\DM___5.Graph.resources
